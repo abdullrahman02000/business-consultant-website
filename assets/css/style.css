@@ -271,6 +271,7 @@ a {
     background: #444;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .tab-container input[type="radio"] {
     display: inline;
